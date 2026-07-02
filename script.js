@@ -11,7 +11,7 @@ document.querySelectorAll(".nav-links a").forEach((link) => {
 
 // IMPORTANT: Replace this with your real WhatsApp number in international format.
 // Example for India: 919876543210
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "918428308552";
 
 document.getElementById("leadForm").addEventListener("submit", function (event) {
   event.preventDefault();
